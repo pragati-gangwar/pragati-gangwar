@@ -1,4 +1,4 @@
-[![](https://github.com/pragati-gangwar/pragati-gangwar/blob/main/ghimg.jpg)](https://cosmic-cascaron-5e5b99.netlify.app)
+[![](https://github.com/pragati-gangwar/pragati-gangwar/blob/main/githubHeader.jpg)](https://cosmic-cascaron-5e5b99.netlify.app)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my page.</h1>
 
 
